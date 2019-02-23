@@ -1,0 +1,652 @@
+html, body, section {
+  height: 100%;
+}
+
+.header
+{
+  margin : 0px auto;
+}
+
+body {
+  position: fixed;
+  min-width: 100%;
+  margin: 40px 0;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 900;
+  background-color: #233142;
+  -webkit-font-smoothing: antialiased;
+  background: url(/bg1.jpg);
+  background-attachment: fixed; 
+}
+
+.title {
+  font-family: "Montserrat";
+  font-size: 4em;
+  font-weight: 900;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+
+  }
+
+.title1 {
+  font-family: "Montserrat";
+  font-size: 1em;
+  font-weight: 400;
+  color: #ffffff;
+    }
+
+p {
+  line-height: 1.5em;
+}
+
+h1 + p, p + p {
+  margin-top: 10px;
+}
+
+.containerbt2 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+   
+}
+
+.containerbt1 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt3 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+}
+
+.containerbt4 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt5 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt6 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt7 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt8 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt9 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt10 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+
+.containerbt11 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt12 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt13 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt14 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt15 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt16 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt17 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt18 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt19 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt20 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt21 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt22 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt23 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.containerbt24 {
+  overflow: scroll;
+  height: 82.5vh;
+  padding-top: 10px;  
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  display: none;
+   
+}
+
+.c1
+{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.card-wrap {
+  margin: 20px;
+  -webkit-transform: perspective(800px);
+          transform: perspective(800px);
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  cursor: pointer;
+}
+.card-wrap:hover .card-info {
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+.card-wrap:hover .card-info p {
+  opacity: 1;
+}
+.card-wrap:hover .card-info, .card-wrap:hover .card-info p {
+  transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.card-wrap:hover .card-info:after {
+  transition: 5s cubic-bezier(0.23, 1, 0.32, 1);
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+.card-wrap:hover .card-bg {
+  transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1), opacity 5s cubic-bezier(0.23, 1, 0.32, 1);
+  opacity: 0.8;
+}
+.card-wrap:hover .card {
+  transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1), box-shadow 2s cubic-bezier(0.23, 1, 0.32, 1);
+  box-shadow: rgba(255, 255, 255, 0.2) 0 0 40px 5px, white 0 0 0 1px, rgba(0, 0, 0, 0.66) 0 30px 60px 0, inset #333 0 0 0 5px, inset white 0 0 0 6px;
+}
+
+.card {
+  position: relative;
+  flex: 0 0 240px;
+  width: 240px;
+  height: 320px;
+  background-color: #333;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.66) 0 30px 60px 0, inset #333 0 0 0 5px, inset rgba(255, 255, 255, 0.5) 0 0 0 6px;
+  transition: 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.card-bg {
+  opacity: 0.5;
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  transition: 1s cubic-bezier(0.445, 0.05, 0.55, 0.95), opacity 5s 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  pointer-events: none;
+}
+
+.card-info {
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  -webkit-transform: translateY(40%);
+          transform: translateY(40%);
+  transition: 0.6s 1.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.card-info p {
+  opacity: 0;
+  text-shadow: black 0 2px 3px;
+  transition: 0.6s 1.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.card-info * {
+  position: relative;
+  z-index: 1;
+}
+.card-info:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.6) 100%);
+  background-blend-mode: overlay;
+  opacity: 0;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+  transition: 5s 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.card-info h1 {
+  font-family: "Montserrat";
+  font-size: 34px;
+  font-weight: 700;
+  text-shadow: rgba(0, 0, 0, 0.5) 0 10px 10px;
+}
+
+.card-info h2 {
+  font-family: "Monsterrat";
+  font-size: 18px;
+  font-weight: 700;
+  text-shadow: rgba(0, 0, 0, 0.5) 0 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+.sub-title
+{
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Montserrat;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.btn-container {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin : 0px auto;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-top: 10px; 
+  margin-left: 10px; 
+  background-color: #2e3131;
+  color: white;
+  padding: 1rem 2.5rem;
+  border-radius: 5px;
+  -moz-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  text-align: center;
+  transition: all .2s, transform .1s;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.2);
+  min-width: 115px;
+}
+.btn:hover {
+  background-color: #26c281;
+}
+.btn:hover > .btn-p1 {
+  transform: translateY(4rem);
+}
+.btn:hover > .btn-p2 {
+  top: 10%;
+}
+.btn:active {
+  transform: scale(0.95);
+}
+
+p {
+  transition: .2s;
+}
+
+.btn-p2 {
+  position: absolute;
+  top: -1.8rem;
+  left : 30%;
+  text-align: center;
+}
+
+.active {
+  background-color: #26c281;
+}
+
+.activep1 {
+  transform: translateY(4rem);
+  margin : 0px auto;
+  text-align: center;
+}
+
+.activep2 {
+  top: 10%;
+  margin : 0px auto;
+  text-align: center;
+}
+
+.right-half
+{
+  max-width: 50%;
+  background: #000000;
+}
+
+.wrapper
+{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  padding : 0;
+  margin-bottom: 0px;
+  position: fixed;
+}
+
+.left-half {
+  margin-top: 30px;
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  height: 80vh;
+  margin: 0 auto;
+  padding: 1rem;
+  position: relative;
+  overflow: scroll;
+  margin-bottom: 10px;
+  
+}
+
+/*.right-half {
+  background-color: #ff9fff;
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 50vh;
+  margin: 0px auto;
+  padding: 1rem;
+  position: relative;
+  right: 0px;
+  overflow: hidden;
+
+}*/
+
+.left-wrapper
+{
+  display: flex;
+  flex-direction: row;
+  margin: 0px auto;
+  transform: scale(1.15);
+  padding-top: 0px;
+  margin-top : 0px;
+}
+
+/**Media Queries**/
+@media only screen and (max-width: 800px)
+{
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+    position: static;
+  }
+  
+  .left-half {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow: visible;    
+  }
+
+  .left-wrapper
+  {
+    max-width: 100%;
+    flex-direction: column;
+  }
+
+  .containerbt1 {
+    overflow: visible;
+    max-width: 100%;
+    margin-top: 100px;
+  }
+
+  .containerbt2 {
+    overflow: visible;
+    max-width: 100%;
+    margin-top: 100px;
+  }
+
+  body {
+    position: static;
+  }
+}
